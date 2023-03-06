@@ -14,7 +14,7 @@ The dataset comprises of Consumer Complaints on Financial products and we’ll s
 
 ![RDS saving](https://user-images.githubusercontent.com/118495124/222996355-732dd19b-6774-4093-bddc-a35cc73d3f77.png)
 
-First, I change the file format from CSV fo RDS by saving it into a data frame and 
+First, I change the file format from CSV fo RDS by saving it into a data frame and save it again as a RDS file. With the RDS fike
 
 **2. Setting up word cloud**
 
