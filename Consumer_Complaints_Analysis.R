@@ -18,6 +18,9 @@ library(treemap)
 
 setwd("D:/DATA 332/Github Project 1")
 
+#df <- read.csv("Consumer_Complaints.csv")
+#saveRDS(df, "Consumer_Complaints.RDS")
+
 df <- readRDS("Consumer_Complaints.rds") 
 df_1 <- df %>%
   select(Complaint.ID, Company, Product, Issue, Submitted.via, Company.response.to.consumer)
