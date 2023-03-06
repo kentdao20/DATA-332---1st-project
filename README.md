@@ -26,9 +26,14 @@ After cleaning, I add another column by using inner join to see the word after r
 
 **3. Setting up sentimental analysis**
 
+![1st graph](https://user-images.githubusercontent.com/118495124/223225451-30eb2e38-7bb3-4fbf-8eee-751796523f90.png)
+
 The data frame 3 being draw out from the tidied data can
 **4. Graph from bing**
 
+![2st graph](https://user-images.githubusercontent.com/118495124/223225471-12c1ac0f-c986-4bc2-9eb7-1a7c6d682e02.png)
+
+**5. Shiny App**
 
 
 ## Graph
