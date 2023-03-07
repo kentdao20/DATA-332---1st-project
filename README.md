@@ -33,7 +33,7 @@ The data frame 3 being draw out from the tidied data can
 
 ![2st graph](https://user-images.githubusercontent.com/118495124/223225471-12c1ac0f-c986-4bc2-9eb7-1a7c6d682e02.png)
 
-**5. Shiny App**
+
 
 
 ## Graph
