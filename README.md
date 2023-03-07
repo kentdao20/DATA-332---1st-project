@@ -59,4 +59,4 @@ This sentimental analysis focus on diving into the emotion of what the customer 
 
 ![Rplot](https://user-images.githubusercontent.com/118495124/223346126-33eee9d9-d3d3-4d95-a96d-ffb5b14750a2.png)
 
-This analysis
+This analysis goes outward, with a simple analysis on the 4 main emotion, but the graph was not too clear as it was not very working in the beginning. 
